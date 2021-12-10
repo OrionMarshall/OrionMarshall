@@ -66,8 +66,8 @@
     </div>
 
     <p class="game-explanation">
-      <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same college touch, they <strong>merge into one!</strong>
-      <br><strong class="important">Note:</strong> The order of colleges is not intended to be a ranking (boo), but a rough west-to-east geographical path to TOSH.
+      <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same member touch, they <strong>merge into one!</strong>
+      <br><strong class="important">Note:</strong> The order of members is intended to be a ranking (boo).
     </p>
     <hr>
     <p>

@@ -67,7 +67,7 @@
 
     <p class="game-explanation">
       <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same member touch, they <strong>merge into one!</strong>
-      <br><strong class="important">Note:</strong> The order of members is intended to be a ranking (boo).
+      <br><strong class="important">Note:</strong> The order of members is intended to be a ranking.
     </p>
     <hr>
     <p>

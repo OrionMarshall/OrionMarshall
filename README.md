@@ -71,7 +71,7 @@
     </p>
     <hr>
     <p>
-    Created by <a href="http://web.mit.edu/mitchgu/www">Orion Marshall</a>. Inspired by <a href="http://naveenarun.github.io/GetCaltech/">Get MIT by Mitchell Gu</a>. Based on <a href="http://gabrielecirulli.com" target="_blank">2048 by Gabriele Cirulli.</a> and <a href="https://itunes.apple.com/us/app/1024!/id823499224" target="_blank">1024 by Veewo Studio</a> and conceptually similar to <a href="http://asherv.com/threes/" target="_blank">Threes by Asher Vollmer.</a>
+    Created by <a href="http://web.mit.edu/mitchgu/www">Orion Marshall</a>. Inspired by <a href="http://naveenarun.github.io/GetCaltech/">Get MIT by Mitchell Gu</a>."
     </p>
     <hr>
     <p>
